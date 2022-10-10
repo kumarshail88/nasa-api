@@ -1,0 +1,5 @@
+2022-10-10 09:18:00,802 INFO o.s.b.StartupInfoLogger [main] Starting NasaApiApplication using Java 17.0.4.1 on Shaileshs-iMac.local with PID 6287 (/Users/shailesh/IdeaProjects/nasa-api/target/classes started by shailesh in /Users/shailesh/IdeaProjects/nasa-api)
+2022-10-10 09:18:00,812 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.7.4, Spring v5.3.23
+2022-10-10 09:18:00,813 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-10-10 09:18:04,995 INFO o.s.b.StartupInfoLogger [main] Started NasaApiApplication in 4.651 seconds (JVM running for 6.189)
+2022-10-10 09:18:19,592 DEBUG c.a.n.d.AsteroidDomainServiceImpl [http-nio-8080-exec-2] No data found in DB. Query the NASA api.
